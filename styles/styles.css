@@ -254,6 +254,15 @@ footer ul li a:hover{
 .clase h3 a {
     color: #FF5722 !important;
 }
+.btn{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: #D4C31C;
+    background-color: blue;
+    color: black;
+    margin: 10px 0px;
+    display: inline-block;
+}
 
 /*Animación*/
 @keyframes float {
